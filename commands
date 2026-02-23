@@ -6,7 +6,7 @@ git branch
 git pull
 git push
 git fetch
-
+git config --- for configuration setting.
 
 
 
